@@ -1,1 +1,1 @@
-# bitcoin-prediction
+# crypto-prediction
